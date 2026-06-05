@@ -39,28 +39,24 @@ Wynik:
         "Scope": "local",
         "Driver": "bridge",
         "EnableIPv4": true,
---
                 "Name": "phpmyadmin",
                 "EndpointID": "74eda703ae9a574af8429a241e3ffa37592c8c52694de9d6da4bccc66a120343",
                 "MacAddress": "1e:4f:e2:48:8e:a3",
                 "IPv4Address": "172.20.0.4/16",
                 "IPv6Address": ""
             },
---
                 "Name": "nginx",
                 "EndpointID": "864420b1acb40fb40d05f6d64c2bebc98e7266971e5fc942d20688e797584aa1",
                 "MacAddress": "da:9c:da:30:0c:fd",
                 "IPv4Address": "172.20.0.5/16",
                 "IPv6Address": ""
             },
---
                 "Name": "php",
                 "EndpointID": "cb316bb296693fc66e4fbf6231f410c75aebf4aa70a0a38813987a39ce229d63",
                 "MacAddress": "06:8e:6f:5f:36:72",
                 "IPv4Address": "172.20.0.3/16",
                 "IPv6Address": ""
             },
---
                 "Name": "mysql",
                 "EndpointID": "7e7a1159c344e67ffb1a3803e4c1a07dad7e3001702791a7514f461693cc6efe",
                 "MacAddress": "3a:e0:09:c4:e2:10",
@@ -79,14 +75,12 @@ Wynik:
         "Scope": "local",
         "Driver": "bridge",
         "EnableIPv4": true,
---
                 "Name": "phpmyadmin",
                 "EndpointID": "6c8e90e10ce2cc3a76ebb4c28a5a2270315b6039c86f73bc4effdd64e5cf407e",
                 "MacAddress": "d6:4f:b2:27:b2:40",
                 "IPv4Address": "172.19.0.2/16",
                 "IPv6Address": ""
             },
---
                 "Name": "nginx",
                 "EndpointID": "4f57a6697073244f12c72e4583c57672d0123bb7f35f45dcef3df6cc040fa437",
                 "MacAddress": "16:31:6c:3d:d8:0b",
